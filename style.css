@@ -1,0 +1,31 @@
+body {
+  font-family: georgia;
+}
+.navbar {
+  background-color: #ffffff;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #ff0000;
+}
+#projects {
+  background-color: #ff0000;
+}
+.bg {
+  font-size: 20px;
+  background-color: #ff0000;
+  text-align: center;
+  color: black;
+}
+.bg a {
+  color: black;
+}
+section {
+  padding-top: 4rem;
+}
+.btn {
+  background-color: #ff0000;
+}
+.card-text {
+  text-align: center;
+}
